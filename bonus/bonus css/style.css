@@ -3,7 +3,7 @@ body {
 }
 
 .yellow {
-    background-color: #fec201;
+    background-color: #ffda01;
 }
 
 .orange {
@@ -18,7 +18,7 @@ body {
     background-image: url(../logoboo.jpeg);
     background-size: cover;
     background-position: center;
-    border: 5px solid #fec201;
+    border: 5px solid #ffda01;
     border-radius: 30px;
 }
 
