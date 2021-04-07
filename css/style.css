@@ -1,0 +1,12 @@
+.container [class*="col-"] {
+    line-height: 150px;
+    text-align: center;
+}
+
+.container [class*="col-"] span {
+    vertical-align: middle;
+}
+
+.container .nested {
+    background-color: coral;
+}

@@ -11,8 +11,8 @@
 .debug [class*="col-"] {
     height: 100%;
     min-height: 100px;
-    background-color: darkred;
-    border: 1px solid yellowgreen;
+    background-color: darkorchid;
+    border: 1px solid black;
 }
 
 /* /DebuG */
